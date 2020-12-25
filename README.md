@@ -1,4 +1,2 @@
 # Alura Data Science Course
 
-
-
